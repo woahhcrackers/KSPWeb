@@ -11,9 +11,9 @@ Want it offline? Grab the zip from https://cloud.ishotupa.school/ksp.zip, unzip 
 It's a big download and a hungry page, as it's not quite a slim game. Expect it to use around 3 GB of RAM, so close some tabs first.
 
 <p>
-<img src="docs/img/moon.jpg" width="32%" alt="Lander on The Mun">
+<img src="docs/img/mun.jpg" width="32%" alt="Lander on The Mun">
 <img src="docs/img/orbit.jpg" width="32%" alt="Docked stack in orbit">
-<img src="docs/img/mars.jpg" width="32%" alt="Going to Duna">
+<img src="docs/img/duna.jpg" width="32%" alt="Going to Duna">
 </p>
 
 Screenshots by barneythegod and crackers.
